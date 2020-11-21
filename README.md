@@ -1,2 +1,2 @@
 # EVA-4
- EVA-4 assignments
+Step by Step Pratical Assigments for the course taught in Deep leaning for Computer Vision. 
